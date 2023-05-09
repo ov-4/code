@@ -20,7 +20,7 @@ void insert(string s)
     vis[p] - true;
 }
 
-bool find_string(string s)
+bool find_string(string s) // 检查字符串是否存在
 {
     int p = 0;
     for (auto c : s)

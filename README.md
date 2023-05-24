@@ -1,4 +1,4 @@
-# Beginner's C++ Template of Algorithm
+# Beginners' C++ Template of Algorithm
 
 ## 取消栈大小限制
 
